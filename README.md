@@ -11,3 +11,20 @@
   <summary>SIEMENS ENERGY</summary>
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
+
+<details>
+  <summary>KRONES</summary>
+  <p>This is the hidden content that drops down when you click the title.</p>
+</details>
+<details>
+  <summary>JOHNSON CONTROLS</summary>
+  <p>This is the hidden content that drops down when you click the title.</p>
+</details>
+<details>
+  <summary>GENERAL MOTORS </summary>
+  <p>This is the hidden content that drops down when you click the title.</p>
+</details>
+<details>
+  <summary>GENERAL MOTORS</summary>
+  <p>This is the hidden content that drops down when you click the title.</p>
+</details>
