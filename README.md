@@ -9,11 +9,7 @@
 
 -<b> SIEMENS ENERGY</b>
 
-<div class="dropdown">
-  <button class="dropbtn">Dropdown Menu</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
+<details>
+  <summary>Click to see more info</summary>
+  <p>This is the hidden content that drops down when you click the title.</p>
+</details>
