@@ -26,7 +26,7 @@
 </details>
 
 <details>
-  <summary>GENERAL MOTORS</summary>
+  <summary>GENERAL MOTORS (MEX)</summary>
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
 
