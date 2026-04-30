@@ -1,3 +1,5 @@
+<body style="background-color: powderblue;">
+
 <h1>Hi, I'm Carlos Wehr!</h1>
 
 <h2> Education</h2>
