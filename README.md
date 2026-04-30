@@ -1,13 +1,11 @@
 <h1>Hi, I'm Carlos Wehr!</h1>
 
-<h2> Education:</h2>
+<h2> Education</h2>
 
 - <b>Mechanical Engineer</b>
 - <b>Engineering Master</b>
 
-<h2> Profesional Experience:</h2>
-
--<b> SIEMENS ENERGY</b>
+<h2> Profesional Experience</h2>
 
 <details>
   <summary>SIEMENS ENERGY</summary>
