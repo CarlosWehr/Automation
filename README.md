@@ -24,10 +24,13 @@
   <summary>GENERAL MOTORS </summary>
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
+
 <details>
   <summary>GENERAL MOTORS</summary>
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
+
+<details>
 <summary>REYSAP</summary>
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
