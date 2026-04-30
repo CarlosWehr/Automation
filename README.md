@@ -1,13 +1,15 @@
+<html>
 <body style="background-color: powderblue;">
 
-<h1>Hi, I'm Carlos Wehr!</h1>
+<h1>Carlos Wehr</h1>
 
 <h2> Education</h2>
 
 - <b>Mechanical Engineer</b>
 - <b>Engineering Master</b>
 
-<h2> Profesional Experience</h2>
+<h2><p style="color: blue;"> Profesional Experience</h2></p>
+<p style="color: blue;"> Profesional Experience</p>
 
 <details>
   <summary>SIEMENS ENERGY</summary>
@@ -35,4 +37,9 @@
 <details>
 <summary>REYSAP</summary>
   <p>This is the hidden content that drops down when you click the title.</p>
+  <img src="https://picsum.photos/200/300" alt="Image">
 </details>
+
+
+
+</html>
