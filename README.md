@@ -29,16 +29,7 @@
   <p>This is the hidden content that drops down when you click the title.</p>
 </details>
 
-<details>
-  <summary>GENERAL MOTORS (MEX)</summary>
-  <p>This is the hidden content that drops down when you click the title.</p>
-</details>
 
-<details>
-<summary>REYSAP</summary>
-  <p>This is the hidden content that drops down when you click the title.</p>
-  <img src="https://picsum.photos/200/300" alt="Image">
-</details>
 
 
 
